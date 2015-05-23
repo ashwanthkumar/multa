@@ -1,0 +1,1 @@
+Multa is a lightweight text template engine, written in Scala, and build to provide a comfortable template framework while taking advantage of the speed of the static type language.
